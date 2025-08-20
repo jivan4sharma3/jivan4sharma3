@@ -37,7 +37,6 @@
 ---
 
 ### 📊 GitHub Stats:
-![Jivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jivan4sharma3&show_icons=true&theme=tokyonight)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jivan4sharma3&layout=compact&theme=tokyonight)
 
