@@ -41,7 +41,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jivan4sharma3&show_icons=true&theme=tokyonight&count_private=true" alt="Jivan's GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivan4sharma3&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="49%" />
 </p>
 
