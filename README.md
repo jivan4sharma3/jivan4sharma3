@@ -48,20 +48,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jivan4sharma3&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivan4sharma3&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jivan4sharma3&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">⭐ Feel free to explore my repositories and leave a star if you like something!</p>
